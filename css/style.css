@@ -156,7 +156,7 @@ ul.breadcrumb li+li:before {
     padding: 0 20px;
 }
 .column,
-columns {
+.columns {
     display: inline-block;
     vertical-align: top;
     margin-left: 3%;
